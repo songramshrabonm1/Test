@@ -3,3 +3,6 @@
     padding: 0;
     box-sizing: border-box;
 }
+.background-linear{
+    background-image: linear-gradient(90deg,blue , violet) ;
+}
